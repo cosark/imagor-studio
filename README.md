@@ -39,6 +39,10 @@ http://localhost:8000
 > [!NOTE]
 > Ready to dive deeper? Check out [Documentation](https://docs.studio.imagor.net/)
 
+## One-Click Deploy
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/Imagor%20Studio/)
+
 ## Links
 
 - **[imagor](https://github.com/cshum/imagor)** - Fast, secure image processing server and Go library, using libvips
